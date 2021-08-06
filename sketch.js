@@ -12,7 +12,7 @@ function preload(){
   bulletImg = loadImage("bullet1.png")
   blueBubbleImg = loadImage("waterBubble.png")
   redBubbleImg = loadImage("redbubble.png")
-  backBoardImg= loadImage("back.jpg")
+  backBoardImg = loadImage("back.jpg")
 }
 
 function setup() {
