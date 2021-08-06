@@ -72,6 +72,7 @@ function drawblueBubble(){
   bluebubble.lifetime = 400;
   blueBubbleGroup.add(bluebubble);
 }
+
 function drawredBubble(){
   redbubble = createSprite(800, random(20, 780), 40, 40);
   redbubble.addImage(redBubbleImg);
