@@ -2,7 +2,7 @@ var score = 0;
 var gun, bluebubble, redbubble, bullet, backBoard;
 var gunImg, bubbleImg, bulletImg, blastImg, backBoardImg;
 var redBubbleGroup, redBubbleGroup, bulletGroup;
-var life =3;
+var life = 3;
 var score = 0;
 var gameState = 1;
 
